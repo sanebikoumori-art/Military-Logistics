@@ -1,0 +1,62 @@
+[
+    {
+        "name":"Local News:War1",
+        "uniques": [
+           //"Only available <when number of [turns] is greater than [5]>",
+            "Unavailable <if [Card Holder] is constructed>",
+			"Unavailable <for [City-States] Civilizations>"
+        ],
+		"civilopediaText":[
+            {"text":"Breaking:Military clash on our country's border has already resulted in 100 deaths!", "centered":true, "header":2,"color": "#FB6B94"},
+            {"extraImage":"War1", "imageSize":410},
+        ],
+        "choices": [
+			{
+				"text": "This is just the beginning"
+			},
+			{
+				"text": "This is a tragedy",
+			}
+        ]
+    },
+    {
+        "name":"Local News:War2",
+        "uniques": [
+           //"Only available <when number of [turns] is greater than [5]>",
+            "Unavailable <if [Card Holder] is constructed>",
+			"Unavailable <for [City-States] Civilizations>"
+        ],
+		"civilopediaText":[
+            {"text":"Breaking: The casualties from the ongoing conflict in our country has surpassed 500!", "centered":true, "header":2,"color": "#FB6B94"},
+            {"extraImage":"War1", "imageSize":410},
+        ],
+        "choices": [
+			{
+				"text": "The enemy will surely fall before a fortress made of our blood"
+			},
+			{
+				"text": "I'll make sure they pay",
+			}
+        ]
+    },
+    {
+        "name":"World News:War3",
+        "uniques": [
+           //"Only available <when number of [turns] is greater than [5]>",
+            "Unavailable <if [Card Holder] is constructed>",
+			"Unavailable <for [City-States] Civilizations>"
+        ],
+		"civilopediaText":[
+            {"text":"Breaking: The total dies in that war reached 1,000. It is definitely one of the largest wars in recent history. The situation is not irreversible.", "centered":true, "header":2,"color": "#FB6B94"},
+            {"extraImage":"War1", "imageSize":410},
+        ],
+        "choices": [
+			{
+				"text": "We will fight to the last drop of blood!"
+			},
+			{
+				"text": "It's just a statistical number",
+			}
+        ]
+    },
+]
