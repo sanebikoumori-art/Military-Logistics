@@ -1,7 +1,7 @@
 [
     {
 		"name": "Daily Consumption",
- 		"uniques": ["Consumes [1] [Supply goods]"]
+ 		"uniques": ["Consumes [1] [Goods]"]
 	},
     //initializer
     {
