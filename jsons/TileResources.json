@@ -53,25 +53,7 @@
         ]
     },
     {
-		"name": "Compound Bow",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
 		"name": "Spear",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Pike",
 		"resourceType": "Strategic",
 		"uniques": [
 			"Stockpiled <hidden from users>",
@@ -89,15 +71,6 @@
         ]
     },
     {
-		"name": "Long Sword",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
 		"name": "Crossbow",
 		"resourceType": "Strategic",
 		"uniques": [
@@ -107,7 +80,7 @@
         ]
     },
     {
-		"name": "Lance",
+		"name": "Rifle",
 		"resourceType": "Strategic",
 		"uniques": [
 			"Stockpiled <hidden from users>",
@@ -115,152 +88,17 @@
 			//"Not shown on world screen"
         ]
     },
-    {
-		"name": "Flintlock musket",
+	{
+		"name": "Infantry Equipment",
 		"resourceType": "Strategic",
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
 			//"Not shown on world screen"
         ]
-    },
-    {
-		"name": "Bolt action rifle",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Assault rifle",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Gatling gun",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Machine gun",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Fighter",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Bomber",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Artillery",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Bullet",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Bullet(Large)",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Ball bullet",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Ball bullet(Large)",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Support equipment",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "WW1 Tank",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Tank",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "MBT",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			//"Not shown on world screen"
-        ]
-    },
-    {
-		"name": "Missile",
+	},
+	{
+		"name": "Gun",
 		"resourceType": "Strategic",
 		"uniques": [
 			"Stockpiled <hidden from users>",
