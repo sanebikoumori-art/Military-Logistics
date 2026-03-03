@@ -39,7 +39,7 @@
     },
     //Weapon and Others
     {
-        "name": "Supply goods",
+        "name": "Goods",
 		"resourceType": "Strategic",
         "civilopediaText":[
 			{
@@ -49,7 +49,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -58,7 +58,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -67,7 +67,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -76,7 +76,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -85,7 +85,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -94,7 +94,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -103,7 +103,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -112,7 +112,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -121,7 +121,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -130,7 +130,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -139,7 +139,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -148,7 +148,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -157,7 +157,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -166,7 +166,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -175,7 +175,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -184,7 +184,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -193,7 +193,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -202,7 +202,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -211,7 +211,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -220,7 +220,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -229,7 +229,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -238,7 +238,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -247,7 +247,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -256,7 +256,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -265,7 +265,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     },
     {
@@ -274,7 +274,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen"
+			//"Not shown on world screen"
         ]
     }
 ]
