@@ -1,7 +1,8 @@
 {
     "name": "Global Uniques",
     "uniques": [
-        "[Military] units gain the [Daily Consumption] promotion",
+        "[Land] units gain the [Daily Consumption] promotion",
+        "[Warrior] units gain the [Consumption on Action(Warrior)] promotion",
         "[Military] units gain the [Const Test] promotion",
     ]
 }
