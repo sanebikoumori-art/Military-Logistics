@@ -25,7 +25,17 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-            "Not shown on world screen <before turn number [4]>"
+            "Not shown on world screen"
+        ]
+    },
+	//It is reset every turn when not at war.If this value becomes too large during war, you will lose happiness and war support.
+	{
+		"name": "Total Death",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+            "Not shown on world screen <when not at war>"
         ]
     },
     //Weapon and Others
@@ -106,4 +116,5 @@
 			//"Not shown on world screen"
         ]
     }
+	//bullets
 ]
