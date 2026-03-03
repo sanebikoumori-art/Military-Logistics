@@ -1,6 +1,7 @@
 {
     "name": "Global Uniques",
     "uniques": [
+        //マンパワーは都市でMobilizationやRecruitを行うと増える
         //manpower and some value check.
         "Instantly provides [50] [War Support]",
         "Provides [2] [War Support] <when at war> <when number of [War Support] is less than [100]>",
