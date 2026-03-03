@@ -6,6 +6,6 @@
     //initializer
     {
 		"name": "Const Test",
- 		"uniques": ["Instantly consumes [100] [Manpower]","[This Unit] loses the [Const Test] status"]
+ 		"uniques": ["Instantly consumes [100] [Manpower]","[This Unit] loses the [Const Test] promotion"]
 	}
 ]
