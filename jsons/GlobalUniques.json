@@ -1,6 +1,6 @@
 {
     "name": "Global Uniques",
     "uniques": [
-        "Provides [-1] [Manpower] <upon gaining a [Worker] unit>",
+        "[Military] units gain the [Daily Consumption] promotion",
     ]
 }
