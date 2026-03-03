@@ -2,5 +2,6 @@
     "name": "Global Uniques",
     "uniques": [
         "[Military] units gain the [Daily Consumption] promotion",
+        "[Military] units gain the [Const Test] promotion",
     ]
 }
