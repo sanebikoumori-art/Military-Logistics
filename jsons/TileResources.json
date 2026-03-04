@@ -337,5 +337,36 @@
 			"Excluded from map editor",
 			"Not shown on world screen <before discovering [Rocketry]>",
         ]
-    }
+    },
+	//Event Keys
+	{
+		"name": "EventKey War1",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Will not be displayed in Civilopedia",
+			"Not shown on world screen",
+        ]
+	},
+	{
+		"name": "EventKey War2",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Will not be displayed in Civilopedia",
+			"Not shown on world screen",
+        ]
+	},
+	{
+		"name": "EventKey War3",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Will not be displayed in Civilopedia",
+			"Not shown on world screen",
+        ]
+	},
 ]
