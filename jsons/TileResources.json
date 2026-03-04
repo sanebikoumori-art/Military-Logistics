@@ -46,6 +46,205 @@
             "Not shown on world screen <when not at war>"
         ]
     },
+	//Weapon Produces
+	{
+		"name": "Sword Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Musket Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Rifle Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Machine Gun Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Infantry Equipment Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Gun Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Spear Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Artillery Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Bow Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Armored Car Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Catapult Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Trebuchet Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Cannon Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Rocket Artillery Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Tank Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Giant Death Robot Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Triplane Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Fighter Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Bomber Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Jet Fighter Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Stealth Bomber Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+    {
+		"name": "Mobile SAM Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
     //Weapon and Others
     {
         "name": "Goods",
@@ -119,15 +318,6 @@
 			"Excluded from map editor",
 			"Not shown on world screen <before discovering [Rifling]>",
 			"Not shown on world screen <after discovering [Ballistics]>"
-        ]
-    },
-	{
-		"name": "Rifle Produce",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor",
-			"Not shown on world screen"
         ]
     },
 	{
