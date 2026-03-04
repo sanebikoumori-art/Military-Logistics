@@ -122,6 +122,15 @@
         ]
     },
 	{
+		"name": "Rifle Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+	{
 		"name": "Infantry Equipment",
 		"resourceType": "Strategic",
 		"uniques": [
