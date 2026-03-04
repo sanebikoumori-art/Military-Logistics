@@ -14,7 +14,7 @@
         "maintenance": 1,
         "uniques":[
             "Provides [1] [Commands]",
-            "Provides [1] [Military Science] <for every [2] [[Science] Per Turn]>"
+            "Provides [1] [Military Research] <for every [2] [[Science] Per Turn]>"
         ]
     },
     {
@@ -24,7 +24,7 @@
         "maintenance": 2,
         "uniques":[
             "Provides [2] [Commands]",
-            "Provides [1] [Military Science] <for every [2] [[Science] Per Turn]>"
+            "Provides [1] [Military Research] <for every [2] [[Science] Per Turn]>"
         ]
     },
     {
@@ -36,7 +36,7 @@
         "uniques":[
             "Only available <if [Headquarters] is constructed in all [non-[Puppeted]] cities>",
             "Provides [8] [Commands]",
-            "Provides [10] [Military Science]",
+            "Provides [10] [Military Research]",
             "Cost increases by [30] per owned city"
         ]
     },
