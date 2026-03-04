@@ -111,16 +111,47 @@
     },
 	//Factories
 	{
-        "name":"Expand Rifle Factory",
-        "requiredTech":"Rifling",
-		"cost":100,
+        "name":"Expand Musket Workshop",
+        "requiredTech":"Gunpowder",
+		"cost":50,
+		"requiredBuilding":"Workshop",
         "uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"[-1]% Production when constructing [Expand Rifle Factory] buildings [in this city] <for every [100*(1-25/[Production])]>",
+			"[-10]% Production when constructing [Expand Musket Workshop] buildings [in this city] <for [50] turns>",
+			"Instantly provides [1] [Musket Produce] <for every [2] [Production]>",
+			"Unsellable",
+            "Remove [Expand Musket Workshop] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Rifle Factory",
+        "requiredTech":"Rifling",
+		"cost":50,
+		"requiredBuilding":"Factory",
+        "uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"[-10]% Production when constructing [Expand Rifle Factory] buildings [in this city] <for [50] turns>",
 			"Instantly provides [1] [Rifle Produce] <for every [2] [Production]>",
 			"Unsellable",
             "Remove [Expand Rifle Factory] [in this city]"
         ]
     },
+	{
+        "name":"Expand Gun Factory",
+        "requiredTech":"Rifling",
+		"requiredBuilding":"Factory",
+		"cost":50,
+        "uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"[-10]% Production when constructing [Expand Gun Factory] buildings [in this city] <for [50] turns>",
+			"Instantly provides [1] [Gun Produce] <for every [3] [Production]>",
+			"Unsellable",
+            "Remove [Expand Gun Factory] [in this city]"
+        ]
+    },
+	//Bullets
+	
 ]
