@@ -82,7 +82,7 @@
 			"Provides [1] [Manpower] <for every [[Food]/10+[War Support]/10]>",
 			"Only available <when number of [Commands] is more than [9]>",
 			"Instantly consumes [10] [Commands]",
-            "Remove [Recruiting Campaign] [in this city] <for every [25] [turns]>"
+            "Remove [Recruiting Campaign] [in this city] <after turn number [25]>"
         ]
     },
 	{
@@ -94,7 +94,7 @@
 			"Provides [1] [Manpower] <for every [Food]>",
 			"Only available <when number of [Commands] is more than [14]>",
 			"Instantly consumes [15] [Commands]",
-            "Remove [Conscription for 10 turns] [in this city] <for every [10] [turns]>"
+            "Remove [Conscription for 10 turns] [in this city] <after turn number [10]>"
         ]
     },
 	{
@@ -106,7 +106,7 @@
 			"Provides [1] [Manpower] <for every [Food]>",
 			"Only available <when number of [Commands] is more than [29]>",
 			"Instantly consumes [30] [Commands]",
-            "Remove [Conscription for 20 turns] [in this city] <after turn number [[turns]+20]>"
+            "Remove [Conscription for 20 turns] [in this city] <after turn number [20]>"
         ]
     },
 	//Factories
