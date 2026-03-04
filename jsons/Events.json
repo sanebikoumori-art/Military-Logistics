@@ -82,17 +82,22 @@
 	{
         "name":"Military Reform",
 		"civilopediaText":[
-            {"text":"Breaking: The total dies in that war reached 1,000. It is definitely one of the largest wars in recent history. The situation is not irreversible.", "centered":true, "header":2,"color": "#FB6B94"},
-            //{"extraImage":"war1", "imageSize":410},
+            {"text":"Military Reform", "centered":true, "header":2,"color": "#FB6B94"},
+			{"text": "The age of chivalry is gone. War is no longer an affair of honor and courtesy; it has become vast, impersonal, and calculated.","centered":true},
+			{"text": "We must modernize our military to survive in a new era.","centered":true}
         ],
         "choices": [
 			{
-				"text": "We will fight to the last drop of blood!",
-				"uniques":["Triggers the following global alert: [Casualties reached 1000]"]
+				"text": "Tradition must be valued most.",
+				"uniques":["Comment [No changes]"]
 			},
 			{
-				"text": "It's just a statistical number",
-				"uniques":["Triggers the following global alert: [Casualties reached 1000]"]
+				"text": "Gradually recruit a citizen army.",
+				"uniques":["Comment [Unlock Conscription]"]
+			},
+			{
+				"text": "Conscription should be made a national obligation. We don't want unpatriotic soldiers.",
+				"uniques":["Comment [Unlock Conscription]","Set [War Support] to [100]","Instantly provides [140] [Commands]","Instantly consumes [500] [Manpower]","[Musketman] [3]s rebel <with [50]% chance>"]
 			}
         ]
     },
