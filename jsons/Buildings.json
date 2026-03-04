@@ -106,7 +106,7 @@
 			"Provides [1] [Manpower] <for every [Food]>",
 			"Only available <when number of [Commands] is more than [29]>",
 			"Instantly consumes [30] [Commands]",
-            "Remove [Conscription for 20 turns] [in this city] <for every [20] [turns]>"
+            "Remove [Conscription for 20 turns] [in this city] <after turn number [[turns]+20]>"
         ]
     },
 	//Factories
