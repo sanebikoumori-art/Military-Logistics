@@ -2,6 +2,7 @@
     {
 		"name": "Daily Consumption",
  		"uniques": ["Consumes [1] [Goods]",
+			"[-1] Movement <when number of [Goods] is less than [0]>",
 			"[+25]% Strength decreasing with distance from the capital",
 			"Can only heal by pillaging <when number of [Manpower] is less than [0]>",
 			"[-33]% Strength <when number of [Total Death] is more than [Manpower]>",
