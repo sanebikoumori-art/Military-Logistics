@@ -7,6 +7,7 @@
         "Set [EventKey War1] to [0] <when not at war> <upon turn start>",
         "Set [EventKey War2] to [0] <when not at war> <upon turn start>",
         "Set [EventKey War3] to [0] <when not at war> <upon turn start>",
+        "Provides [1] [Rifle] <for every [Rifle Produce]>",
         //マンパワーは都市でMobilizationやRecruitを行うと増える
         //manpower and some value check.
         "Instantly provides [50] [War Support]",
