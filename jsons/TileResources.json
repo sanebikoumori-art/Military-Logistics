@@ -245,6 +245,51 @@
 			"Not shown on world screen"
         ]
     },
+	{
+		"name": "Arrow Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Ball Bullet Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Bullet Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Ball Bullet(Large) Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Bullet(Large) Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen"
+        ]
+    },
     //Weapon and Others
     {
         "name": "Goods",
@@ -429,7 +474,7 @@
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
 			"Not shown on world screen <before discovering [Flight]>",
-			"Not shown on world screen <after discovering [Rader]>"
+			"Not shown on world screen <after discovering [Radar]>"
         ]
     },
 	{
@@ -438,7 +483,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen <before discovering [Rader]>",
+			"Not shown on world screen <before discovering [Radar]>",
 			"Not shown on world screen <after discovering [Lasers]>"
         ]
     },
@@ -448,7 +493,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen <before discovering [Rader]>",
+			"Not shown on world screen <before discovering [Radar]>",
 			"Not shown on world screen <after discovering [Stealth]>"
         ]
     },
