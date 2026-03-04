@@ -113,12 +113,11 @@
 	{
         "name":"Expand Rifle Factory",
         "requiredTech":"Rifling",
-		"cost":1,
+		"cost":100,
         "uniques":[
-			"Comment [This building takes 4 turns to be constructed in any city.]",
-			"[400]% production cost <for every [Production]> <hidden from users>",
+			//"Comment [This building takes 4 turns to be constructed in any city.]",
+			//"[400]% production cost <for every [Production]> <hidden from users>",
 			"Cannot be purchased",
-			"Only available <if [Conscription for 10 turns] is not constructed>",
 			"Instantly provides [1] [Rifle Produce] <for every [2] [Production]>",
 			"Unsellable",
             "Remove [Expand Rifle Factory] [in this city]"
