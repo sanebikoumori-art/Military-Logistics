@@ -3,7 +3,7 @@
         "name":"Local News:War1",
 		"civilopediaText":[
             {"text":"Breaking:Military clash on our country's border has already resulted in 100 deaths!", "centered":true, "header":2,"color": "#FB6B94"},
-            {"extraImage":"War1", "imageSize":410},
+            {"extraImage":"war1", "imageSize":410},
         ],
         "choices": [
 			{
@@ -18,7 +18,7 @@
         "name":"Local News:War2",
 		"civilopediaText":[
             {"text":"Breaking: The casualties from the ongoing conflict in our country has surpassed 500!", "centered":true, "header":2,"color": "#FB6B94"},
-            {"extraImage":"War1", "imageSize":410},
+            {"extraImage":"war1", "imageSize":410},
         ],
         "choices": [
 			{
@@ -33,7 +33,7 @@
         "name":"World News:War3",
 		"civilopediaText":[
             {"text":"Breaking: The total dies in that war reached 1,000. It is definitely one of the largest wars in recent history. The situation is not irreversible.", "centered":true, "header":2,"color": "#FB6B94"},
-            {"extraImage":"War1", "imageSize":410},
+            {"extraImage":"war1", "imageSize":410},
         ],
         "choices": [
 			{
