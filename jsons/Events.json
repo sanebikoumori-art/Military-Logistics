@@ -1,9 +1,40 @@
 [
+	{
+        "name":"Local News:War Began",
+		"civilopediaText":[
+            {"text":"War!", "centered":true, "header":2,"color": "#FF0000"},
+            {"extraImage":"war1", "imageSize":410},
+			{"text":"Enemy country has finally rejected our ultimatum","centered":true},
+			{"text":"Then, we have officially declared war.","centered":true},
+        ],
+        "choices": [
+			{
+				"text": "We must show them what that means."
+			}
+        ]
+    },
+	{
+        "name":"Local News:War Decleared",
+		"civilopediaText":[
+            {"text":"War!", "centered":true, "header":2,"color": "#FF0000"},
+            {"extraImage":"war1", "imageSize":410},
+			{"text":"War has been declared against our nation."},
+			{"text":"Mobilization has already begun in the enemy nation,"}
+			{"text":"and battle is already going in some areas."}
+			{"text":"In any cases, their demands were simply unacceptable, and this outcome was inevitable.":true},
+        ],
+        "choices": [
+			{
+				"text": "Defend our homeland from invaders!"
+			}
+        ]
+    },
     {
         "name":"Local News:War1",
 		"civilopediaText":[
-            {"text":"Breaking:Military clash on our country's border has already resulted in 100 deaths!", "centered":true, "header":2,"color": "#FB6B94"},
+            {"text":"Local News", "centered":true, "header":2,"color": "#FB6B94"},
             {"extraImage":"war1", "imageSize":410},
+			{"text":"Breaking:Military clash on our country's border has already resulted in 100 deaths!","centered":true},
         ],
         "choices": [
 			{
@@ -17,8 +48,9 @@
     {
         "name":"Local News:War2",
 		"civilopediaText":[
-            {"text":"Breaking: The casualties from the ongoing conflict in our country has surpassed 500!", "centered":true, "header":2,"color": "#FB6B94"},
+            {"text":"Local News", "centered":true, "header":2,"color": "#FB6B94"},
             {"extraImage":"war1", "imageSize":410},
+			{"text":"Breaking: The casualties from the ongoing conflict in our country has surpassed 500!","centered":true},
         ],
         "choices": [
 			{
@@ -32,8 +64,26 @@
     {
         "name":"World News:War3",
 		"civilopediaText":[
-            {"text":"Breaking: The total dies in that war reached 1,000. It is definitely one of the largest wars in recent history. The situation is not irreversible.", "centered":true, "header":2,"color": "#FB6B94"},
+            {"text":"World News", "centered":true, "header":2,"color": "#FB6B94"},
             {"extraImage":"war1", "imageSize":410},
+			{"text":"Breaking:The total dies in that war reached 1,000. It is definitely one of the largest wars in recent history. The situation is not irreversible.","centered":true},
+        ],
+        "choices": [
+			{
+				"text": "We will fight to the last drop of blood!",
+				"uniques":["Triggers the following global alert: [Casualties reached 1000]"]
+			},
+			{
+				"text": "It's just a statistical number",
+				"uniques":["Triggers the following global alert: [Casualties reached 1000]"]
+			}
+        ]
+    },
+	{
+        "name":"Military Reform",
+		"civilopediaText":[
+            {"text":"Breaking: The total dies in that war reached 1,000. It is definitely one of the largest wars in recent history. The situation is not irreversible.", "centered":true, "header":2,"color": "#FB6B94"},
+            //{"extraImage":"war1", "imageSize":410},
         ],
         "choices": [
 			{
