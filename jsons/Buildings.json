@@ -111,6 +111,32 @@
     },
 	//Factories
 	{
+        "name":"Expand Spear Production",
+        "requiredTech":"Bronze Working",
+		"cost":50,
+		"uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"[-10]% Production when constructing [Expand Spear Production] buildings [in this city] <for [50] turns>",
+			"Instantly provides [1] [Spear Produce] <for every [2] [Production]>",
+			"Unsellable",
+            "Remove [Expand Spear Production] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Blacksmith",
+        "requiredTech":"Iron Working",
+		"cost":50,
+        "uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"[-10]% Production when constructing [Expand Blacksmith] buildings [in this city] <for [50] turns>",
+			"Instantly provides [1] [Sword Produce] <for every [3] [Production]>",
+			"Unsellable",
+            "Remove [Expand Blacksmith] [in this city]"
+        ]
+    },
+	{
         "name":"Expand Musket Workshop",
         "requiredTech":"Gunpowder",
 		"cost":50,
@@ -153,6 +179,19 @@
         ]
     },
 	//Bullets
+	{
+        "name":"Expand Arrow Production",
+        "requiredTech":"Archery",
+		"cost":50,
+        "uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"[-10]% Production when constructing [Expand Arrow Production] buildings [in this city] <for [50] turns>",
+			"Instantly provides [1] [Arrow Produce] <for every [1] [Production]>",
+			"Unsellable",
+            "Remove [Expand Arrow Production] [in this city]"
+        ]
+    },
 	{
         "name":"Expand Bullet Factory",
         "requiredTech":"Metallurgy",
