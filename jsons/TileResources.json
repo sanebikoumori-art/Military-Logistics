@@ -501,7 +501,7 @@
         ]
     },
 	{
-		"name": "Ball Ballet(Large)",
+		"name": "Ball Bullet(Large)",
 		"resourceType": "Strategic",
 		"uniques": [
 			"Stockpiled <hidden from users>",
@@ -511,7 +511,7 @@
         ]
     },
 	{
-		"name": "Ballet",
+		"name": "Bullet",
 		"resourceType": "Strategic",
 		"uniques": [
 			"Stockpiled <hidden from users>",
@@ -520,7 +520,7 @@
         ]
     },
 	{
-		"name": "Ballet(Large)",
+		"name": "Bullet(Large)",
 		"resourceType": "Strategic",
 		"uniques": [
 			"Stockpiled <hidden from users>",
