@@ -1,6 +1,8 @@
 {
     "name": "Global Uniques",
     "uniques": [
+        //mobilization
+        "Instantly provides [1] [Bool Mobilization1] <upon turn start> <when number of [Bool Mobilization1] is equal to [0]> <when number of [Bool Mobilization2] is equal to [0]> <when number of [Bool Mobilization3] is equal to [0]> <when number of [Bool Mobilization4] is equal to [0]>",
         "Gain a free [Military Rework] [in all cities]",
         //Total Death
         "Set [Total Death] to [0] <when not at war> <upon turn start>",
