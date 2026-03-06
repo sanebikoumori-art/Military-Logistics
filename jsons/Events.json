@@ -14,6 +14,21 @@
         ]
     },
 	{
+        "name":"Local News:War Began but why",
+		"civilopediaText":[
+            {"text":"War!", "centered":true, "header":2,"color": "#FF0000"},
+            {"extraImage":"war1", "imageSize":410},
+			{"text":"They and we were neutral or friendly to each other, but we officially declared war on their country.","centered":true},
+			{"text":"Our people were shocked and unfortunately public opinion was antiwar.","centered":true},
+        ],
+        "choices": [
+			{
+				"text": "This was unexpected.",
+				"uniques": ["Instantly consumes [25] [War Support]"]
+			}
+        ]
+    },
+	{
         "name":"Local News:War Decleared",
 		"civilopediaText":[
             {"text":"War!", "centered":true, "header":2,"color": "#FF0000"},
