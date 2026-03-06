@@ -89,7 +89,7 @@
         ]
     },
 	{
-        "name":"Conscription",
+        "name":"Conscription for 10 turns",
         "cost":100,
         "uniques":[
 			"[-1] population [in this city]",
@@ -99,8 +99,9 @@
 			"Provides [1] [Manpower] <for every [Food]>",
 			"Only available <when number of [Commands] is more than [14]> <hidden from users>",
 			"Instantly consumes [15] [Commands]",
-			"Comment [This has a 10% chance of end each turn.]",
-            "Remove [Conscription] [in this city] <upon turn start> <with [10]% chance> <hidden from users>"
+			"Instantly provides [10] [Conscription Timer] <hidden from users>",
+			"Consumes [1] [Conscription Timer] <hidden from users>",
+            "Remove [Conscription for 10 turns] [in this city] <upon turn start> <when number of [Conscription Timer] is less than [1]> <hidden from users>"
         ]
     },
 	//Factories
