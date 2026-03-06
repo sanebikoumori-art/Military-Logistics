@@ -162,7 +162,7 @@
 		"cost":50,
 		"uniques":[
 			"War plant",
-			"[+100]% weight to this choice for AI decisions <when number of [Bow] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Bow] is less than [0]>",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
 			"Instantly provides [1] [Bow Produce] <for every [3] [Production]>",
@@ -178,7 +178,7 @@
 		"uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"[+100]% weight to this choice for AI decisions <when number of [Crossbow] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Crossbow] is less than [0]>",
 			"Cost increases by [50] when built",
 			"Instantly provides [1] [Crossbow Produce] <for every [4] [Production]>",
 			"Unsellable",
@@ -194,7 +194,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [50] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Machine Gun] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Machine Gun] is less than [0]>",
 			"Instantly provides [1] [Machine Gun Produce] <for every [12] [Production]>",
 			"Unsellable",
             "Remove [Expand Machine Gun Factory] [in this city]"
@@ -209,7 +209,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Catapult] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Catapult] is less than [0]>",
 			"Instantly provides [1] [Catapult Produce] <for every [10] [Production]>",
 			"Unsellable",
             "Remove [Expand Catapult Production] [in this city]"
@@ -224,7 +224,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Trebuchet] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Trebuchet] is less than [0]>",
 			"Instantly provides [1] [Trebuchet Produce] <for every [40] [Production]>",
 			"Unsellable",
             "Remove [Expand Trebuchet Workshop] [in this city]"
@@ -239,7 +239,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [50] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Cannon] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Cannon] is less than [0]>",
 			"Instantly provides [1] [Cannon Produce] <for every [25] [Production]>",
 			"Unsellable",
             "Remove [Expand Cannon Workshop] [in this city]"
@@ -254,7 +254,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Artillery] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Artillery] is less than [0]>",
 			"Instantly provides [1] [Artillery Produce] <for every [35] [Production]>",
 			"Unsellable",
             "Remove [Expand Artillery Factory] [in this city]"
@@ -269,7 +269,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Rocket Artillery] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Rocket Artillery] is less than [0]>",
 			"Instantly provides [1] [Rocket Artillery Produce] <for every [40] [Production]>",
 			"Unsellable",
             "Remove [Expand Rocket Artillery Factory] [in this city]"
@@ -285,7 +285,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Tank] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Tank] is less than [0]>",
 			"Instantly provides [1] [Tank Produce] <for every [80] [Production]>",
 			"Unsellable",
             "Remove [Expand Tank Factory] [in this city]"
@@ -300,7 +300,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Armored Car] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Armored Car] is less than [0]>",
 			"Instantly provides [1] [Armored Car Produce] <for every [50] [Production]>",
 			"Unsellable",
             "Remove [Expand Armored Car Factory] [in this city]"
@@ -315,7 +315,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Spear] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Spear] is less than [0]>",
 			"Instantly provides [1] [Spear Produce] <for every [4] [Production]>",
 			"Unsellable",
             "Remove [Expand Spear Production] [in this city]"
@@ -329,7 +329,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Sword] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Sword] is less than [0]>",
 			"Instantly provides [1] [Sword Produce] <for every [6] [Production]>",
 			"Unsellable",
             "Remove [Expand Blacksmith] [in this city]"
@@ -344,7 +344,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [50] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Musket] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Musket] is less than [0]>",
 			"Instantly provides [1] [Musket Produce] <for every [8] [Production]>",
 			"Unsellable",
             "Remove [Expand Musket Workshop] [in this city]"
@@ -359,7 +359,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Rifle] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Rifle] is less than [0]>",
 			"Instantly provides [1] [Rifle Produce] <for every [10] [Production]>",
 			"Unsellable",
             "Remove [Expand Rifle Factory] [in this city]"
@@ -374,7 +374,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Gun] is less than [0]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Gun] is less than [0]>",
 			"Instantly provides [1] [Gun Produce] <for every [10] [Production]>",
 			"Unsellable",
             "Remove [Expand Gun Factory] [in this city]"
@@ -390,7 +390,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Arrow] is less than [10]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Arrow] is less than [10]>",
 			"Instantly provides [1] [Arrow Produce] <for every [1] [Production]>",
 			"Unsellable",
             "Remove [Expand Arrow Production] [in this city]"
@@ -405,7 +405,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Bullet] is less than [100]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Bullet] is less than [100]>",
 			"Instantly provides [1] [Bullet Produce] <for every [2] [Production]>",
 			"Unsellable",
             "Remove [Expand Bullet Factory] [in this city]"
@@ -421,7 +421,7 @@
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
 			"Instantly provides [1] [Bullet(Large) Produce] <for every [15] [Production]>",
-			"[+100]% weight to this choice for AI decisions <when number of [Bullet(Large)] is less than [10]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Bullet(Large)] is less than [10]>",
 			"Unsellable",
             "Remove [Expand Bullet(Large) Factory] [in this city]"
         ]
@@ -436,7 +436,7 @@
 			"Only available <before discovering [Rifling]>",
 			"Cannot be purchased",
 			"Cost increases by [50] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Ball Bullet] is less than [75]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Ball Bullet] is less than [75]>",
 			"Instantly provides [1] [Ball Bullet Produce] <for every [2] [Production]>",
 			"Unsellable",
             "Remove [Expand Ball Bullet Workshop] [in this city]"
@@ -452,7 +452,7 @@
 			"Only available <before discovering [Dynamite]>",
 			"Cannot be purchased",
 			"Cost increases by [50] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Ball Bullet(Large)] is less than [10]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Ball Bullet(Large)] is less than [10]>",
 			"Instantly provides [1] [Ball Bullet(Large) Produce] <for every [10] [Production]>",
 			"Unsellable",
             "Remove [Expand Ball Bullet(Large) Workshop] [in this city]"
@@ -467,7 +467,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
-			"[+100]% weight to this choice for AI decisions <when number of [Missile] is less than [1]>",
+			"[+1000]% weight to this choice for AI decisions <when number of [Missile] is less than [1]>",
 			"Instantly provides [1] [Missile Produce] <for every [33] [Production]>",
 			"Unsellable",
             "Remove [Expand Ball Bullet(Large) Workshop] [in this city]"
