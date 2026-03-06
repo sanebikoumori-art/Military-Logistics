@@ -582,6 +582,15 @@
 			"Not shown on world screen <before discovering [Rocketry]>",
         ]
     },
+	{
+		"name": "Missile Produce",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen",
+        ]
+    },
 	//Event Keys
 	{
 		"name": "EventKey War1",
