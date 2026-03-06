@@ -107,7 +107,7 @@
 			"[+100]% weight to this choice for AI decisions <when number of [Manpower] is less than [0]>",
 			"Unsellable <hidden from users>",
 			"Provides [1] [Manpower] <for every [Food]>",
-			"Only available <when number of [Commands] is more than [14]> <hidden from users>",
+			"Only available <when number of [Bool Military Reform] is equial to [1]> <when number of [Commands] is more than [14]> <hidden from users>",
 			"Instantly consumes [15] [Commands]",
 			"Instantly provides [10] [Conscription Timer] <hidden from users>",
 			"Instantly consumes [1] [Conscription Timer] <upon turn start> <hidden from users>",
