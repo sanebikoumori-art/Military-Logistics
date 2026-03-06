@@ -19,8 +19,8 @@
             {"text":"War!", "centered":true, "header":2,"color": "#FF0000"},
             {"extraImage":"war1", "imageSize":410},
 			{"text":"War has been declared against our nation."},
-			{"text":"Mobilization has already begun in the enemy nation,"}
-			{"text":"and battle is already going in some areas."}
+			{"text":"Mobilization has already begun in the enemy nation,"},
+			{"text":"and battle is already going in some areas."},
 			{"text":"In any cases, their demands were simply unacceptable, and this outcome was inevitable.":true},
         ],
         "choices": [
