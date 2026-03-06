@@ -108,19 +108,20 @@
         ],
         "choices": [
 			{
-				"text": "Civil Economy"
+				"text": "Civil Economy",
+				"uniques":["Comment [Goods for military are produced at a minimum level]","Set [Bool Mobilization1] to [1] <hidden from users>","Set [Bool Mobilization2] to [0] <hidden from users>","Set [Bool Mobilization3] to [0] <hidden from users>","Set [Bool Mobilization4] to [0] <hidden from users>"]
 			},
 			{
 				"text": "Early Mobilization",
-				"uniques":["Triggers the following global alert: [Begin Mobilization]"]
+				"uniques":["Comment [5% of production will used to produce Goods (1:5 rate). +10% Production while building War plants]","Set [Bool Mobilization1] to [0] <hidden from users>","Set [Bool Mobilization2] to [1] <hidden from users>","Set [Bool Mobilization3] to [0] <hidden from users>","Set [Bool Mobilization4] to [0] <hidden from users>"]
 			},
 			{
 				"text": "War Economy",
-				"uniques":["Triggers the following global alert: [Begin Mobilization]"]
+				"uniques":["Comment [10% of production will used to produce Goods (1:5 rate). +20% Production while building War plants]","Set [Bool Mobilization1] to [0] <hidden from users>","Set [Bool Mobilization2] to [0] <hidden from users>","Set [Bool Mobilization3] to [1] <hidden from users>","Set [Bool Mobilization4] to [0] <hidden from users>"]
 			},
 			{
 				"text": "Full Mobilization",
-				"uniques":["Triggers the following global alert: [National Mobilization Law adopted]"]
+				"uniques":["Comment [20% of production will used to produce Goods (1:5 rate). +40% Production while building War plants]","Triggers the following global alert: [National Mobilization Law adopted]","Set [Bool Mobilization1] to [0] <hidden from users>","Set [Bool Mobilization2] to [0] <hidden from users>","Set [Bool Mobilization3] to [0] <hidden from users>","Set [Bool Mobilization4] to [1] <hidden from users>"]
 			}
         ]
     }
