@@ -53,10 +53,12 @@
         ],
         "choices": [
 			{
-				"text": "This is just the beginning"
+				"text": "This is just the beginning",
+				"uniques": ["Only available <when number of [War Support] is more than [40]>","[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"text": "This is a tragedy",
+				"uniques": ["Instantly consumes [5] [War Support]"]
 			}
         ]
     },
@@ -70,9 +72,11 @@
         "choices": [
 			{
 				"text": "The enemy will surely fall before a fortress made of our blood",
+				"uniques": ["Only available <when number of [War Support] is more than [60]>","[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"text": "I'll make sure they pay",
+				"uniques": ["Instantly consumes [10] [War Support]"]
 			}
         ]
     },
@@ -86,11 +90,11 @@
         "choices": [
 			{
 				"text": "We will fight to the last drop of blood!",
-				"uniques":["Triggers the following global alert: [Casualties reached 1000]"]
+				"uniques":["Triggers the following global alert: [Casualties reached 1000]","Instantly provides [20] [War Support]","Only available <when number of [War Support] is more than [80]>","[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"text": "It's just a statistical number",
-				"uniques":["Triggers the following global alert: [Casualties reached 1000]"]
+				"uniques":["Triggers the following global alert: [Casualties reached 1000]","Instantly consumes [20] [War Support]"]
 			}
         ]
     },
