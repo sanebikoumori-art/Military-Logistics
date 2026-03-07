@@ -63,15 +63,41 @@
         ]
     },
 	{
+        "name":"Leader's Speech",
+        "cost":1,
+		"requiredTech":"Agriculture",
+        "uniques":[
+			"Unsellable",
+			"[-100]% weight to this choice for AI decisions <when number of [War Support] is more than [50]> <when not at war>",
+			"[-100]% weight to this choice for AI decisions <when number of [War Support] is more than [50]> <when at war>",
+			"[-80]% weight to this choice for AI decisions <when number of [War Support] is between [40] and [50]> <when at war>",
+			"[-60]% weight to this choice for AI decisions <when number of [War Support] is between [30] and [40]> <when at war>",
+			"[-40]% weight to this choice for AI decisions <when number of [War Support] is between [20] and [30]> <when at war>",
+			"[-20]% weight to this choice for AI decisions <when number of [War Support] is between [10] and [20]> <when at war>",
+			"Only available <when number of [Commands] is more than [24]>",
+			"Provides [5] [War Support]",
+			"Instantly provides [5] [War Support] <hidden from users>",
+			"Instantly consumes [25] [Commands]",
+            "Remove [Leader's Speech] [in this city] <hidden from users>"
+        ]
+    },
+	{
         "name":"Propaganda News",
         "cost":1,
 		"requiredTech":"Printing Press",
         "uniques":[
 			"Unsellable",
 			"Only available <when number of [Commands] is more than [49]>",
-			"Instantly provides [10] [War Support]",
+			"[-100]% weight to this choice for AI decisions <when number of [War Support] is more than [50]> <when not at war>",
+			"[-100]% weight to this choice for AI decisions <when number of [War Support] is more than [50]> <when at war>",
+			"[-80]% weight to this choice for AI decisions <when number of [War Support] is between [40] and [50]> <when at war>",
+			"[-60]% weight to this choice for AI decisions <when number of [War Support] is between [30] and [40]> <when at war>",
+			"[-40]% weight to this choice for AI decisions <when number of [War Support] is between [20] and [30]> <when at war>",
+			"[-20]% weight to this choice for AI decisions <when number of [War Support] is between [10] and [20]> <when at war>",
+			"Provides [10] [War Support]",
+			"Instantly provides [10] [War Support] <hidden from users>",
 			"Instantly consumes [50] [Commands]",
-            "Remove [Propaganda News] [in this city]"
+            "Remove [Propaganda News] [in this city] <hidden from users>"
         ]
     },
 	{
@@ -79,12 +105,17 @@
         "cost":1,
         "uniques":[
 			"Unsellable",
-			"[+25]% weight to this choice for AI decisions <when number of [War Support] is less than [20]> <when not at war>",
-			"[+75]% weight to this choice for AI decisions <when number of [War Support] is less than [40]> <when at war>",
+			"[-100]% weight to this choice for AI decisions <when number of [War Support] is more than [50]> <when not at war>",
+			"[-100]% weight to this choice for AI decisions <when number of [War Support] is more than [50]> <when at war>",
+			"[-80]% weight to this choice for AI decisions <when number of [War Support] is between [40] and [50]> <when at war>",
+			"[-60]% weight to this choice for AI decisions <when number of [War Support] is between [30] and [40]> <when at war>",
+			"[-40]% weight to this choice for AI decisions <when number of [War Support] is between [20] and [30]> <when at war>",
+			"[-20]% weight to this choice for AI decisions <when number of [War Support] is between [10] and [20]> <when at war>",
 			"Only available <if [Bloadcast Tower] is constructed> <when number of [Commands] is more than [99]>",
-			"Instantly provides [20] [War Support]",
+			"Provides [20] [War Support]",
+			"Instantly provides [20] [War Support] <hidden from users>",
 			"Instantly consumes [100] [Commands]",
-            "Remove [Propaganda Broadcasts] [in this city]"
+            "Remove [Propaganda Broadcasts] [in this city] <hidden from users>"
         ]
     },
 	{
