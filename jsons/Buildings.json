@@ -94,8 +94,8 @@
 			"Cost increases by [10] when built",
 			"[-90]% weight to this choice for AI decisions <when number of [Manpower] is more than [10]>",
 			"[+100]% weight to this choice for AI decisions <when number of [Manpower] is less than [1]>",
-			"Provides [1] [Manpower] <for every [3] [War Support]>",
-			"Instantly provides [1] [Manpower] <for every [3] [War Support]> <hidden from users>",
+			"Provides [1] [Manpower] <for every [3] [[War Support]+100]>",
+			"Instantly provides [1] [Manpower] <for every [3] [[War Support]+100]> <hidden from users>",
 			"Only available <before discovering [Chivalry]> <when number of [Commands] is more than [4]>",
 			"Instantly consumes [5] [Commands]",
 			"Remove [Expand Armed Peasants] [in this city] <hidden from users>"
@@ -108,8 +108,8 @@
 			"Cost increases by [20] when built",
 			"[-90]% weight to this choice for AI decisions <when number of [Manpower] is more than [10]>",
 			"[+100]% weight to this choice for AI decisions <when number of [Manpower] is less than [1]>",
-			"Provides [1] [Manpower] <for every [War Support]> <hidden from users>",
-			"Instantly provides [1] [Manpower] <for every [War Support]> <hidden from users>",
+			"Provides [1] [Manpower] <for every [[War Support]+100]> <hidden from users>",
+			"Instantly provides [1] [Manpower] <for every [100+[War Support]]> <hidden from users>",
 			"Only available <when number of [Commands] is more than [4]> <when number of [Bool Military Reform] is equal to [0]>",
 			"Instantly consumes [5] [Commands]",
 			"Remove [Expand Mercenaries] [in this city] <hidden from users>"
