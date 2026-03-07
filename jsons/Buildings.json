@@ -162,6 +162,7 @@
 		"cost":50,
 		"uniques":[
 			"War plant",
+			"Only available <before discovering [Machinery]>",
 			"Provides [1] [Bow] <for [AI player] Civilizations> <hidden from users>",
 			"[-33]% weight to this choice for AI decisions",
 			"[+133]% weight to this choice for AI decisions <when number of [Bow] is less than [0]>",
@@ -180,6 +181,7 @@
 		"requiredBuilding":"Workshop",
 		"uniques":[
 			"War plant",
+			"Only available <before discovering [Industrialization]>",
 			"Cannot be purchased",
 			"Provides [1] [Crossbow] <for [AI player] Civilizations> <hidden from users>",
 			"[-33]% weight to this choice for AI decisions",
@@ -216,6 +218,7 @@
 		"cost":50,
 		"uniques":[
 			"War plant",
+			"Only available <before discovering [Physics]>",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
 			"Provides [1] [Catapult] <for [AI player] Civilizations> <hidden from users>",
@@ -234,6 +237,7 @@
 		"requiredBuilding":"Workshop",
 		"uniques":[
 			"War plant",
+			"Only available <before discovering [Chemistry]>",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
 			"Provides [1] [Trebuchet] <for [AI player] Civilizations> <hidden from users>",
@@ -252,6 +256,7 @@
 		"requiredBuilding":"Workshop",
 		"uniques":[
 			"War plant",
+			"Only available <before discovering [Dynamite]>",
 			"Cannot be purchased",
 			"Cost increases by [50] when built",
 			"Provides [1] [Cannon] <for [AI player] Civilizations> <hidden from users>",
@@ -270,6 +275,7 @@
 		"requiredBuilding":"Factory",
 		"uniques":[
 			"War plant",
+			"Only available <before discovering [Rocketry]>",
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
 			"Provides [1] [Artillery] <for [AI player] Civilizations> <hidden from users>",
