@@ -343,6 +343,7 @@
 		"cost":50,
 		"uniques":[
 			"War plant",
+			"Only available <before discovering [Combined Arms]>",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
 			"Provides [1] [Spear] <for [AI player] Civilizations> <hidden from users>",
@@ -361,6 +362,7 @@
         "uniques":[
 			"War plant",
 			"Cannot be purchased",
+			"Only available <before discovering [Gunpowder]>",
 			"Cost increases by [25] when built",
 			"Provides [1] [Sword] <for [AI player] Civilizations> <hidden from users>",
 			"[-33]% weight to this choice for AI decisions",
@@ -378,6 +380,7 @@
 		"requiredBuilding":"Workshop",
         "uniques":[
 			"War plant",
+			"Only available <before discovering [Combustion]>",
 			"Cannot be purchased",
 			"Cost increases by [50] when built",
 			"Provides [1] [Musket] <for [AI player] Civilizations> <hidden from users>",
@@ -448,8 +451,8 @@
         "requiredTech":"Archery",
 		"cost":50,
         "uniques":[
-			"Only available <before discovering [Industrialization]>",
 			"War plant",
+			"Only available <before discovering [Industrialization]>",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
 			"[-33]% weight to this choice for AI decisions",
