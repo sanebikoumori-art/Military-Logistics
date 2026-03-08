@@ -591,4 +591,23 @@
             "Remove [Expand Ball Bullet(Large) Workshop] [in this city]<hidden from users>"
         ]
     },
+	//New Trigger
+	{
+		"name":"News:Nuked1",
+		"cost":1,
+		"uniques":[
+			"Unbuildable",
+			"Unsellable",
+			"Triggers a [Local News:Nuked] event"
+		]
+	},
+	{
+		"name":"News:Nuked2",
+		"cost":1,
+		"uniques":[
+			"Unbuildable",
+			"Unsellable",
+			"Triggers a [World News:Nuked] event"
+		]
+	}
 ]
