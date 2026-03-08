@@ -145,7 +145,7 @@
         ]
     },
 	{
-        "name":"World News:Nuked",
+        "name":"Local News:Nuked",
 		"civilopediaText":[
             {"text":"Mass Destructive Weapon Dropped!", "centered":true, "header":2,"color": "#FF0000"},
             {"extraImage":"nuke", "imageSize":410},
@@ -161,7 +161,43 @@
         ],
         "choices": [
 			{
-				"text": "We must show them what that means."
+				"text": "The physicists have known sin. and this is a knowledge which they can't forget.",
+				"uniques": ["Only available <after adopting [Freedom Complete]>","Instantly consumes [25] [War Support]","[+100]% weight to this choice for AI decisions"]
+			},
+			{
+				"text": "Our science and bomb are the finest in the world!",
+				"uniques": ["Only available <after adopting [Autocracy Complete]>","Instantly consumes [25] [War Support]","[+100]% weight to this choice for AI decisions"]
+			},
+			{
+				"text": "This was a necessary sacrifice to force surrender them.",
+				"uniques": ["Only available <after adopting [Order Complete]>","Instantly consumes [25] [War Support]","[+100]% weight to this choice for AI decisions"]
+			},
+			{
+				"text": "...",
+				"uniques": ["Comment [There are no more excuses. Public opinion will shift dramatically to No war.]","Instantly consumes [50] [War Support]"]
+			}
+        ]
+    },
+	{
+		"name":"World News:Nuked",
+		"civilopediaText":[
+            {"text":"Mass Destructive Weapon Dropped!", "centered":true, "header":2,"color": "#FF0000"},
+            {"extraImage":"nuke", "imageSize":410},
+			{"text":"The world was shocked by the mass destructive power of this new weapon.","centered":true},
+			{"text":"After that day, humans got a weapon that enough to wipe out its own existence.","centered":true},
+        ],
+        "choices": [
+			{
+				"text": "This is definitely a war crime!",
+				"uniques": ["Only available <if [Manhattan Project] is constructed>","[+100]% Production when constructing [Atomic Bomb] units [in all cities] <for [50] turns>"]
+			},
+			{
+				"text": "The iron curtain had come down.",
+				"uniques": ["Only available <if [Manhattan Project] is not constructed>","[+100]% spy effectiveness [in all cities] <for [50] turns>"]
+			},
+			{
+				"text": "We too must gain that power as soon as possible.",
+				"uniques": ["Only available <if [Manhattan Project] is not constructed>","[+100]% Production when constructing [Manhattan Project] buildings [in all cities] <for [50] turns>","[+100]% Production when constructing [Atomic Bomb] units [in all cities] <for [50] turns>"]
 			}
         ]
     }
