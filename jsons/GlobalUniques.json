@@ -2,15 +2,15 @@
     "name": "Global Uniques",
     "uniques": [
         //for Barbarians
-        "Provides [100] [Manpower] <for [Barbarians] civilizations>",
+        "Provides [100] [Manpower] <for [Barbarians] Civilizations>",
         "[+100]% Strength <for [Barbarians] units>",
-        "Provides [1000] [Arrow] <for [Barbarians] civilizations>",
-        "Provides [1000] [Ball Bullet] <for [Barbarians] civilizations>",
-        "Provides [1000] [Ball Bullet(Large)] <for [Barbarians] civilizations>",
-        "Provides [1000] [Bullet] <for [Barbarians] civilizations>",
-        "Provides [1000] [Bullet(Large)] <for [Barbarians] civilizations>",
-        "Provides [1000] [Missile] <for [Barbarians] civilizations>",
-        "Provides [1] [War Support] <for [Barbarians] civilizations>",
+        "Provides [1000] [Arrow] <for [Barbarians] Civilizations>",
+        "Provides [1000] [Ball Bullet] <for [Barbarians] Civilizations>",
+        "Provides [1000] [Ball Bullet(Large)] <for [Barbarians] Civilizations>",
+        "Provides [1000] [Bullet] <for [Barbarians] Civilizations>",
+        "Provides [1000] [Bullet(Large)] <for [Barbarians] Civilizations>",
+        "Provides [1000] [Missile] <for [Barbarians] Civilizations>",
+        "Provides [1] [War Support] <for [Barbarians] Civilizations>",
         //mobilization
         "Set [Bool Mobilization1] to [1] <upon turn start> <when number of [Bool Mobilization1] is equal to [0]> <when number of [Bool Mobilization2] is equal to [0]> <when number of [Bool Mobilization3] is equal to [0]> <when number of [Bool Mobilization4] is equal to [0]>",
         "Set [Bool Military Reform] to [1] <starting from the [Industrial era]> <upon turn start> <when number of [turns] is less than [3]>",
