@@ -3,7 +3,11 @@
     "uniques": [
         //mobilization
         "Set [Bool Mobilization1] to [1] <upon turn start> <when number of [Bool Mobilization1] is equal to [0]> <when number of [Bool Mobilization2] is equal to [0]> <when number of [Bool Mobilization3] is equal to [0]> <when number of [Bool Mobilization4] is equal to [0]>",
-        //"Set [Military Reform] to [1] <starting from the [Industrial era]> <upon turn start>",
+        "Set [Bool Military Reform] to [1] <starting from the [Industrial era]> <upon turn start> <when number of [turns] is less than [3]>",
+        "Set [Bool Military Reform] to [1] <starting from the [Modern era]> <upon turn start> <when number of [turns] is less than [3]>",
+        "Set [Bool Military Reform] to [1] <starting from the [Atomic era]> <upon turn start> <when number of [turns] is less than [3]>",
+        "Set [Bool Military Reform] to [1] <starting from the [Information era]> <upon turn start> <when number of [turns] is less than [3]>",
+        "Set [Bool Military Reform] to [1] <starting from the [Future era]> <upon turn start> <when number of [turns] is less than [3]>",
         "Gain a free [Military Rework] [in all cities]",
         //Total Death
         "Set [Total Death] to [0] <when not at war> <upon turn start>",
